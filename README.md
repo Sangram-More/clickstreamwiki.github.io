@@ -1,3 +1,4 @@
+This repository is dedicated to development of Data Mining Project for the course CSCI 5502 Data Mining course at CU Boulder.
 Exploring Wikipedia clickstream Data Analysis
 Description
 Wikipedia releases clickstream statistics on a regular basis, which monitor the combined user paths between its pages. Traditional statistical approaches can yield interesting insights from the links between articles, but often miss important details when working with such large datasets.
