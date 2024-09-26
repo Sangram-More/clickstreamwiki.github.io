@@ -11,3 +11,5 @@ Data used : https://dumps.wikimedia.org/other/clickstream/
 Contact
 For any questions, suggestions, or collaboration inquiries, feel free to reach out via:
 GitHub Issues: You can also open an issue in this repository for project-related queries.
+
+This repository is dedicated to development of Data Mining Project for the course CSCI 5502 Data Mining course at CU Boulder.
