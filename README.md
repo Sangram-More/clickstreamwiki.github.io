@@ -15,4 +15,6 @@ GitHub Issues: You can also open an issue in this repository for project-related
 
 The dataset is too big to be uploaded on github. Here's a link to the dataset used in Milestone 3: - https://drive.google.com/drive/folders/1CbydT5X0wt6yvxGH-RVj5A8p6i8NdEjX?usp=sharing
 
+Link to website: https://sites.google.com/colorado.edu/clickstream/models-implemented
+
 This repository is dedicated to developing a Data Mining Project for the CSCI 5502 Data Mining course at CU Boulder.
